@@ -16,7 +16,7 @@
 title: moon._log
 logo: "/assets/images/star.png"
 email: anstjdus0702@duksung.ac.kr
-description: 덕성여자대학교 컴퓨터공학전공 4학년 문서연입니다. 에듀테크에 관심이 있습니다.
+description: 덕성여자대학교 컴퓨터공학전공 4학년 문서연입니다.
 # twitter_username: username
 github_username: devMooon
 minimal_mistakes_skin: dark
@@ -27,7 +27,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 15 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -58,7 +58,8 @@ plugins:
 author:
   name   : "🔥Seoyeon Moon🔥"
   avatar : "/assets/images/image.jpg"
-  bio    : "덕성여자대학교 컴퓨터공학전공 4학년 문서연입니다. 에듀테크에 관심이 있습니다."
+  bio    : "덕성여자대학교 컴퓨터공학전공 4학년 문서연입니다."
+  location         : "Republic of Korea"
   links:
 #    - label: "Website"
 #      icon: "fas fa-fw fa-link"
@@ -66,6 +67,9 @@ author:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:anstjdus0702@duksung.ac.kr
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devMooon"
@@ -78,6 +82,9 @@ footer:
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:anstjdus0702@duksung.ac.kr
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devMooon"
@@ -101,6 +108,7 @@ defaults:
       read_time: true
       words_per_minute: 250
       comments: true
+      header: true
   # _pages
   - scope:
       path: "_pages"

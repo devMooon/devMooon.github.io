@@ -1,8 +1,63 @@
 ---
 permalink: /about/
 title: "About"
+toc: true
+toc_sticky: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+ISFJ
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+# 학력
+
+2020.03 덕성여자대학교 입학
+2021.03 덕성여자대학교 컴퓨터공학전공
+2021.03 덕성여자대학교 교직학부
+2020.03 덕성여자대학교 졸업
+
+# 자격증
+
+- 운전면허
+- 컴퓨터활용능력 1급
+- 한국사능력 1급
+- (예정)SQLD
+- (예정)정보처리기사
+
+# 프로젝트
+
+- TAVE
+- 혼자 넷플릭스 클론코딩
+- 카레 게임 만들기(3명)
+- C++ 기말
+- 자바 특별반
+- 덕성여자대학교 학생회 프로젝트
+- 모바일앱 프로그래밍 기말
+- 안드로이드 기말
+- 한이음
+- 소프트웨어공학 프로젝트
+
+# 수상
+
+- TAVE 8기 프로젝트 00상
+- 덕성여자대학교 컴퓨팅사고력 은상
+- 덕성여자대학교 해커톤 장려상
+
+# 소속
+
+- 덕성여자대학교 컴퓨터공학전공 제 13회 학생회 Flow 집행부원
+- 동아리 TAVE 8기
+
+# 공모전
+
+- ETRI Open API 활용사례 공모전
+
+# 활동
+
+- 덕성 챌린지 프로젝트
+- 22-1 덕성 튜터링
+
+# 봉사활동
+
+2019.11.11 ~ 2019.11.11 고원초등학교 소프트웨어 교육 봉사활동
+2019.11.11 ~ 2019.11.11 네이버 소프트웨어야 놀자 AI 활용 교육 봉사활동 답십리 초등학교
+2019.11.11 ~ 2019.11.11 미사초등학교 교육 봉사활동
+
