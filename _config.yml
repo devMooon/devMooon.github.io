@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: moon._log
 logo: "/assets/images/star.png"
-email: anstjdus0702@duksung.ac.kr
+email: document2r@gmail.com
 description: 덕성여자대학교 컴퓨터공학전공 4학년 문서연입니다.
 # twitter_username: username
 github_username: devMooon
@@ -69,7 +69,7 @@ author:
 #      url: "https://twitter.com/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:anstjdus0702@duksung.ac.kr
+      url: mailto:document2r@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devMooon"
@@ -84,7 +84,7 @@ footer:
 #      url: "https://twitter.com/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:anstjdus0702@duksung.ac.kr
+      url: mailto:document2r@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/devMooon"
